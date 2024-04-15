@@ -1,1 +1,1 @@
-This repository has to do with the collection of data in my specializations course at ALX.
+This is a repository exploring user data for my specilisations software engineering course at ALX.
